@@ -7,8 +7,8 @@
     <ProjectGuid>{0186252C-9484-4EFA-93D0-051D45ABD42E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>X_SAMPAizer</RootNamespace>
-    <AssemblyName>X-SAMPAizer</AssemblyName>
+    <RootNamespace>X_SAMPALizer</RootNamespace>
+    <AssemblyName>X-SAMPALizer</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

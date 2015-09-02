@@ -3,3 +3,8 @@ E:\Programming\USTRESET\USTRESET\X-SAMPAizer\bin\Debug\X-SAMPAizer.pdb
 E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAlizer.csprojResolveAssemblyReference.cache
 E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAizer.exe
 E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAizer.pdb
+E:\Documents\GitHub\UTAUTools\X-SAMPALizer\bin\Debug\X-SAMPALizer.exe
+E:\Documents\GitHub\UTAUTools\X-SAMPALizer\bin\Debug\X-SAMPALizer.pdb
+E:\Documents\GitHub\UTAUTools\X-SAMPALizer\obj\Debug\X-SAMPAlizer.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\UTAUTools\X-SAMPALizer\obj\Debug\X-SAMPALizer.exe
+E:\Documents\GitHub\UTAUTools\X-SAMPALizer\obj\Debug\X-SAMPALizer.pdb
