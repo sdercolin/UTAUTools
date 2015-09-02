@@ -1,0 +1,18 @@
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Debug\USTRESET.exe.config
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Debug\USTRESET.exe
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Debug\USTRESET.pdb
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.csprojResolveAssemblyReference.cache
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.USTRESET.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.Properties.Resources.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.csproj.GenerateResource.Cache
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.exe
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.pdb
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.LoadingFailed.resources
+F:\Music\UTAU\UTAU Program\USTRESET.exe.config
+F:\Music\UTAU\UTAU Program\USTRESET.exe
+F:\Music\UTAU\UTAU Program\USTRESET.pdb
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.UTAUSettingError.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Debug\USTRESET.SplitError.resources
+F:\Program Files (x86)\UTAU\USTRESET.exe.config
+F:\Program Files (x86)\UTAU\USTRESET.exe
+F:\Program Files (x86)\UTAU\USTRESET.pdb

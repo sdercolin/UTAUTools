@@ -1,0 +1,5 @@
+E:\Programming\USTRESET\USTRESET\X-SAMPAizer\bin\Debug\X-SAMPAizer.exe
+E:\Programming\USTRESET\USTRESET\X-SAMPAizer\bin\Debug\X-SAMPAizer.pdb
+E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAlizer.csprojResolveAssemblyReference.cache
+E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAizer.exe
+E:\Programming\USTRESET\USTRESET\X-SAMPAizer\obj\Debug\X-SAMPAizer.pdb

@@ -1,0 +1,14 @@
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Release\USTRESET.exe.config
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Release\USTRESET.exe
+E:\Programming\USTRESET\USTRESET\USTRESET\bin\Release\USTRESET.pdb
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.USTRESET.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.LoadingFailed.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.Properties.Resources.resources
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.csproj.GenerateResource.Cache
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.exe
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.pdb
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.csprojResolveAssemblyReference.cache
+E:\Programming\USTRESET\USTRESET\USTRESET\obj\Release\USTRESET.UTAUSettingError.resources
+F:\Music\UTAU\UTAU Program\USTRESET.exe.config
+F:\Music\UTAU\UTAU Program\USTRESET.exe
+F:\Music\UTAU\UTAU Program\USTRESET.pdb

@@ -1,0 +1,9 @@
+E:\Programming\oto2ust\oto2ust\oto2ust\bin\Debug\oto2ust.exe.config
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.csprojResolveAssemblyReference.cache
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.main.resources
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.Properties.Resources.resources
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.csproj.GenerateResource.Cache
+E:\Programming\oto2ust\oto2ust\oto2ust\bin\Debug\oto2ust.exe
+E:\Programming\oto2ust\oto2ust\oto2ust\bin\Debug\oto2ust.pdb
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.exe
+E:\Programming\oto2ust\oto2ust\oto2ust\obj\Debug\oto2ust.pdb
